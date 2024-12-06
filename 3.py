@@ -1,5 +1,5 @@
 import telebot
-a = telebot.TeleBot("7776098211:AAFz-Rx005HbBk5L4Kk8rnWIyKW-k6JocSU")
+a = telebot.TeleBot("Token")
 
 user_data = {}
 
