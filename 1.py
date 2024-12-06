@@ -1,5 +1,5 @@
 import telebot
-a = telebot.TeleBot("7873627575:AAHmPxX7I60rP_bPSX9RUSd3upyrRKeKCTo")
+a = telebot.TeleBot("Token")
 
 keyboard_test = telebot.types.ReplyKeyboardMarkup(True)
 keyboard_test.row("Новостные (СМИ)", "Общие сайты (блоги и форумы)", "Англоязычные ресурсы")
