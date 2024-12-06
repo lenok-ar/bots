@@ -1,5 +1,5 @@
 import telebot
-a = telebot.TeleBot("7750348601:AAGi1ZKxfeQ2-uiqsIXXdFUPDsPqUgLYNuA")
+a = telebot.TeleBot("Token")
 @a.message_handler(commands=['start'])
 def startWork(message):
   tid = message.chat.id
